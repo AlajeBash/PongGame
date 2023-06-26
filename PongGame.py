@@ -7,6 +7,7 @@
 # Part 4: Moving the Ball
 # Part 5: Colliding With the Paddles
 # Part 6: Adding Scores
+# part 7: Adding Sounds
 
 import turtle as t
 import winsound
