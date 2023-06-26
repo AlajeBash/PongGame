@@ -38,7 +38,7 @@ To run the game, make sure you have Python installed. Then, follow these steps:
 Note: Make sure to download the required sound files (pong.wav and fail.wav) in the same directory as the Python file for the sound effects to work.
 
 ## License
-this project is licensed under the [MIT License](LICNSE).
+this project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - Thanks to [Python]((https://docs.python.org/3/library/turtle.html)https://docs.python.org/3/library/turtle.html](https://www.python.org/)) for their awesome libraries.
