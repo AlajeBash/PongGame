@@ -42,3 +42,6 @@ this project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - Thanks to [Python]((https://docs.python.org/3/library/turtle.html)https://docs.python.org/3/library/turtle.html](https://www.python.org/)) for their awesome libraries.
+
+## Sample Solution
+![Sample Image](Sample.png)
